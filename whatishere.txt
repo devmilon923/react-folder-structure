@@ -1,0 +1,5 @@
+tailwindcss
+dasyui
+react router dom
+react hot toast
+fontawesome icons
