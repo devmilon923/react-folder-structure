@@ -1,1 +1,1 @@
-# Basic project react folder structure for parsonal used
+# Basic react project folder structure for parsonal used
